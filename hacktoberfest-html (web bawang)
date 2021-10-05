@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Web bawang</title>
+</head>
+<body>
+	<p>
+	<h1>My waifu</h1>
+	<h2>In Top 10</h2>
+    </p>
+	<p><h3>1. Rimuru Tempest</h3>
+	</p>
+	<img src="img/Rimuru.png" alt="Rimuru" width="100" length="150">
+	<p>From: Tensei Shitara Slime Datta Ken</p>
+    <h4>Link Web MAL</h4>
+	<a href="https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken">Tensei Shitara Slime Datta Ken</a>
+
+	<p><h3>2. Ichigo</h3></p>
+	<img src="img/Ichigo.png" alt="Ichigo" width="100" length="150">
+	<p>From: Darling In The Franxx </p>
+	<h4>Link Web MAL</h4>
+    <a href="https://myanimelist.net/anime/35849/Darling_in_the_FranXX">Darling In The Franxx</a>
+
+	<p><h3>3. Siesta</h3></p>
+	<img src="img/Siesta.png" alt="Siesta" width="100" length="150">
+	<p>From: Tantei Wa Mou Shinderu</p>
+	<h4>Link Web MAL</h4>
+	<a href="https://myanimelist.net/anime/46471/Tantei_wa_Mou_Shindeiru">Tantei Wa Mou Shinderu</a>
+
+	<p><h3>4.Nakano Nino</h3></p>
+	<img src="img/Nino.png" alt="Nino" width="100" length="150">
+	<p>From: Gotoubun No Hanayome</p>
+	<h4>Link Web MAL</h4>
+	<a href="https://myanimelist.net/anime/38101/5-toubun_no_Hanayome?q=gotoubun%20&cat=anime">Gotoubun No Hanayome</a>
+
+	<h3>5. Nakano Miku</h3>
+	<img src="img/Miku.png" alt="Nakano Miku" width="100" length="150">
+	<p>From: Gotoubun No Hanayome</p>
+	<h4>Link Web MAL</h4>
+		<a href="https://myanimelist.net/anime/38101/5-toubun_no_Hanayome?q=gotoubun%20&cat=anime">Gotoubun No Hanayome</a>
+
+	<p><h3>6. Elaina</h3></p>
+	<img src="img/Elaina.png" alt="Elaina" width="100" length="150">
+	<p>From: Majo no Tabi Tabi</p>
+	<h4>Link Web MAL</h4>
+	<a href="https://myanimelist.net/anime/40571/Majo_no_Tabitabi?q=Majo%20no%20Tabi%20TAbi&cat=anime">Majo No Tabi Tabi</a>
+
+	<h3>7. Zero Two</h3>
+	<img src="img/Zero Two.png" alt="Zero Two" width="100" length="150">
+	<p>From: Darling In The Franxx</p>
+	<h4>Link Web MAL</h4>
+    <a href="https://myanimelist.net/anime/35849/Darling_in_the_FranXX">Darling In The Franxx</a>
+
+    <h3>8. Hiragi Shinoa</h3>
+    
+</body>
+</html>
